@@ -1,0 +1,7 @@
+{
+  "/**": {
+    "target": "https://jsonbin.org",
+    "secure": false,
+    "logLevel": "info"
+  }
+}
